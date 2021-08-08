@@ -1,0 +1,11 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scss": " node-sass --watch styles/scss/ -o styles/css"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
